@@ -1,6 +1,16 @@
 body{
-    background-color: #16404D;
+    background-color: #23486A;
+}
+.text-box{
+    width: 320px;
+    height: 400px;
+    background: #4C7B8B;
 }
 .hello-text{
-    color : #EFB036
+    color : #ffeecc
+}
+.btn{
+    background-color: #EFB036;
+    color: black;
+    border-color:black ;
 }
